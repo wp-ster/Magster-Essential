@@ -1,0 +1,2 @@
+# magster
+wordpress theme
